@@ -4,7 +4,7 @@ A React-based multi-step form application for managing moving inventory, built w
 
 ## 🚀 Live Demo
 
-[Add your demo link here]
+[[LINK ](https://movelogic-ai-form.netlify.app/)]
 
 ## 🎥 Demo Video
 
