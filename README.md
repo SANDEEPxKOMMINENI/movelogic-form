@@ -8,7 +8,8 @@ A React-based multi-step form application for managing moving inventory, built w
 
 ## 🎥 Demo Video
 
-[Add your Loom video link here]
+Will be added soon
+
 
 ## 🛠 Tech Stack
 
