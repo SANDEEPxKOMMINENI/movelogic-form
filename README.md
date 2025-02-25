@@ -6,6 +6,18 @@ A React-based multi-step form application for managing moving inventory, built w
 
 [[LINK ](https://movelogic-ai-form.netlify.app/)]
 
+##   ( EXACT REPLICA AS GIVEN TO ME IN PDF): Demo Pictures:
+
+![WhatsApp Image 2025-02-25 at 09 27 09_afd63de9](https://github.com/user-attachments/assets/b0c54cfa-e8e2-4f56-81f9-1f80d4ae47a5)
+![WhatsApp Image 2025-02-25 at 09 28 02_f7a43f9c](https://github.com/user-attachments/assets/06e0dce3-4516-465f-aaa3-83dcd0ce2798)
+![WhatsApp Image 2025-02-25 at 09 29 52_216bfd7f](https://github.com/user-attachments/assets/b232fa56-8172-4161-abd6-9d5fc7d9f7d5)
+![WhatsApp Image 2025-02-25 at 09 30 16_9c03a738](https://github.com/user-attachments/assets/b70f2fdf-938f-4116-9da2-1578ea74d6d5)
+![WhatsApp Image 2025-02-25 at 09 30 53_e8985080](https://github.com/user-attachments/assets/c54abe60-dff8-4956-8997-6a0d5a06064f)
+![WhatsApp Image 2025-02-25 at 09 31 14_56249f8e](https://github.com/user-attachments/assets/3a0c2d1d-8d9f-418e-a8bf-1e72cb43dfcb)
+![WhatsApp Image 2025-02-25 at ![WhatsApp Image 2025-02-25 at 09 32 24_628bdb53](https://github.com/user-attachments/assets/f228c8ad-f9b6-46e6-a92e-f987c97b1df7)
+09 31 57_6e9be07e](https://github.com/user-attachments/assets/7876c66d-3a93-4fc4-811f-b7748b1f3a2d)
+
+
 ## 🎥 Demo Video
 
 Will be added soon
