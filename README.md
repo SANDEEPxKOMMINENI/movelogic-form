@@ -13,10 +13,9 @@ A React-based multi-step form application for managing moving inventory, built w
 ![WhatsApp Image 2025-02-25 at 09 29 52_216bfd7f](https://github.com/user-attachments/assets/b232fa56-8172-4161-abd6-9d5fc7d9f7d5)
 ![WhatsApp Image 2025-02-25 at 09 30 16_9c03a738](https://github.com/user-attachments/assets/b70f2fdf-938f-4116-9da2-1578ea74d6d5)
 ![WhatsApp Image 2025-02-25 at 09 30 53_e8985080](https://github.com/user-attachments/assets/c54abe60-dff8-4956-8997-6a0d5a06064f)
-![WhatsApp Image 2025-02-25 at 09 31 14_56249f8e](https://github.com/user-attachments/assets/3a0c2d1d-8d9f-418e-a8bf-1e72cb43dfcb)
-![WhatsApp Image 2025-02-25 at 09 32 24_db894891](https://github.com/user-attachments/assets/9804a9b7-b463-411c-89e6-9d62f7ce8df5)
-![WhatsApp Image 2025-02-25 at 09 38 29_7edc0b17](https://github.com/user-attachments/assets/ff289273-79e4-42bd-b871-e78cb808b934)
-09 31 57_6e9be07e](https://github.com/user-attachments/assets/7876c66d-3a93-4fc4-811f-b7748b1f3a2d)
+![WhatsApp Image 2025-02-25 at 09 38 29_735b883b](https://github.com/user-attachments/assets/54e57691-a9a8-4dc2-9fd6-5a1733c139cf)
+![WhatsApp Image 2025-02-25 at 09 32 24_5b298100](https://github.com/user-attachments/assets/7f8fbe75-c5ad-4586-845e-16d909841b2a)
+![WhatsApp Image 2025-02-25 at 09 31 57_32e711df](https://github.com/user-attachments/assets/2c6130d2-100a-4df3-933d-1ba3f2bcd776)
 
 
 ## 🎥 Demo Video
