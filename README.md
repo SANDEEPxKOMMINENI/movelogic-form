@@ -1,3 +1,8 @@
+#####     I WAS ASKED TO REPLICATE A WEBSITE IN PDF AS A PART OF INTERVIEW FROM ISOFT INFRASTRUCTURE COMPANY    ######
+
+
+
+
 # MoveLogic AI - Multi-Step Form
 
 A React-based multi-step form application for managing moving inventory, built with modern web technologies.
